@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdutrufen
+- 👋 Hi, I’m @kadutrufen
 - 📫 How to reach me carlos.trufen@gmail.com
 
 <!---
